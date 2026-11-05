@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-customer-accounts-dart-mobile",
+  "capabilityKey": "planned:ecommerce:customer-accounts",
+  "presentation": "dart-mobile",
+  "package": "module_ecommerce_customer_accounts_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/ecommerce/nextjs/customer-accounts.md",
+  "presentationPlan": "projects/ecommerce/features/customer-accounts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
